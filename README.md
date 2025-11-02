@@ -5,5 +5,5 @@ Detta är ett testprojekt
 Lära mig skapa en repository
 
 ## Klona projektet
-git clone 
+git clone https://github.com/JohanssonLinnea/Test.git
 
